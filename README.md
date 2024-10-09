@@ -34,6 +34,8 @@ This application a progressive web application(PWA) text editor that will in the
 ![screenshot 3](/progressive-web-applications-text-editor/assets/images/screenshot3.png)
 ![screenshot 4](/progressive-web-applications-text-editor/assets/images/screenshot4.png)
 ![screenshot 5](/progressive-web-applications-text-editor/assets/images/screenshot5.png)
+![screenshot 6](/progressive-web-applications-text-editor/assets/images/screenshot6.png)
+
 
 ## Contact
 
