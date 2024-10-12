@@ -29,17 +29,17 @@ This application a progressive web application(PWA) text editor that will in the
 
 # Screenshots of Application
 
-![screenshot1](/progressive-web-applications-text-editor/assets/images1/Screenshot%202024-10-09%20at%204.22.27 PM.png)
+![screenshot1](/progressive-web-applications-text-editor/assets/images/image1.png)
 
-![screenshot2](/progressive-web-applications-text-editor/assets/images1/Screenshot%202024-10-09%20at%204.22.34 PM.png)
+![screenshot2](/progressive-web-applications-text-editor/assets/images/image2.png)
 
-![screenshot3](/progressive-web-applications-text-editor/assets/images1/Screenshot%202024-10-09%20at%204.22.41 PM.png)
+![screenshot3](/progressive-web-applications-text-editor/assets/images/image3.png)
 
-![screenshot4](/progressive-web-applications-text-editor/assets/images1/Screenshot%202024-10-09%20at%204.23.22 PM.png)
+![screenshot4](/progressive-web-applications-text-editor/assets/images/image4.png)
 
-![screenshot5](/progressive-web-applications-text-editor/assets/images1/Screenshot%202024-10-09%20at%204.24.07 PM.png)
+![screenshot5](/progressive-web-applications-text-editor/assets/images/image5.png)
 
-![screenshot6](/progressive-web-applications-text-editor/assets/images1/Screenshot%202024-10-09%20at%204.43.38 PM.png)
+![screenshot6](/progressive-web-applications-text-editor/assets/images/image6.png)
 
 ## Contact
 
