@@ -39,8 +39,7 @@ This application a progressive web application(PWA) text editor that will in the
 
 ![screenshot5](/progressive-web-applications-text-editor/images/Screenshot%202024-10-09%20at%204.24.07 PM.png)
 
-![screenshot6](/progressive-web-applications-text-editor/images/Screenshot%202024-10-09%20at%204.43.38 PM.png)
-
+![screenshot6](/progressive-web-applications-text-editor/assets/images/Screenshot%202024-10-09%20at%204.43.38 PM.png)
 
 ## Contact
 
